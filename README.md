@@ -1,14 +1,11 @@
 ![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI.png?raw=true)
 
 - [Inspiration](#inspiration)
-    - [Bringing Art to Life Online](#bringing-art-to-life-online)
-    - [The Challenge of Descriptive Writing](#the-challenge-of-descriptive-writing)
-    - [Data Revelation](#data-revelation)
-    - [Birth of AIT-MARKI](#birth-of-ait-marki)
-    - [Beyond Surface-level Descriptions](#beyond-surface-level-descriptions)
-    - [A Blend of Technology and Artistry](#a-blend-of-technology-and-artistry)
-    - [Rekindling Creativity in Digital Marketing](#rekindling-creativity-in-digital-marketing)
-    - [Exciting Voyage](#exciting-voyage)
+   - [Selling Artwork Online](#selling-artwork-online)
+   - [The Challenge of Descriptive Writing](#the-challenge-of-descriptive-writing)
+   - [Data Revelation](#data-revelation)
+   - [Rekindling Creativity in Digital Marketing](#rekindling-creativity-in-digital-marketing)
+
 - [What it Does](#what-it-does)
   - [Bridging Art and Commerce](#bridging-art-and-commerce)
   - [Specialized Process for Rich Narratives](#specialized-process-for-rich-narratives)
@@ -67,37 +64,17 @@
 
 ## Inspiration
 
-### Bringing Art to Life Online
-
-Bringing art to life online has always been tricky business. Selling a piece is about more than just putting up a pretty picture. You need words that capture the essence of each work and make viewers feel something special.
+### Selling Artwork Online
+Selling artwork online is about more than just putting up a pretty picture. Showcasing products visually is only half the story —  the right words make all the difference. Artists need descriptions that capture the essence of each artwork and make viewers feel something special.
 
 ### The Challenge of Descriptive Writing
-
-But for many artists and small business owners, writing these descriptions is a real challenge. Sure, the paintings look beautiful. However, finding the right words to spark emotion in potential buyers takes true skill.
+For many artists and small business owners, writing compelling text to accompany visuals is a real challenge. Sure, the artworks look beautiful. However, finding the right words to spark desire in potential buyers takes true skill.
 
 ### Data Revelation
-
-After looking at the data, I realized just how tough this would be. To make a decent annual income of $60k, an artist has to sell around 2,000 prints a year if receives $30 at the end. That's a lot! Clearly, standard marketing techniques weren't cutting it. Sellers needed a new approach to bring art to life through writing.
-
-### Birth of AIT-MARKI
-
-And so, the idea for AIT-MARKI was born - Artificial Intelligence for MARKeting artworks online.
-
-### Beyond Surface-level Descriptions
-
-Rather than quick auto-generated captions, AIT-MARKI aimed to create rich, emotional narratives for each piece. We wanted to help artists go beyond the surface and touch viewers' hearts.
-
-### A Blend of Technology and Artistry
-
-By combining Google's Imagen technology with our specialized 7-step process, we've designed AIT-MARKI to truly understand and describe each artwork's aesthetic and feelings. The result is authentic stories that resonate with potential buyers.
+Analyzing e-commerce data revealed a sobering truth—for artists to earn a livable income from art online required selling thousands of prints a year. This is an immense volume of individual artworks requiring customized descriptions! Spending hours manually writing unique text for each artwork couldn’t scale. Artists desperately needed a way to streamline transforming their visuals into compelling, tailored descriptions in just minutes, not days.
 
 ### Rekindling Creativity in Digital Marketing
-
-At its core, AIT-MARKI is all about connection. In a digital world full of sterile, automated marketing, we bring back creativity's intimate spark. Our narratives whisper the unspoken essence of each work right into art lovers' hearts.
-
-### Exciting Voyage
-
-This has been an exciting voyage - charting new territory at the intersection of art and commerce. We can't wait to help galleries make that lucrative emotional sale, one beautiful work at a time. With AIT-MARKI's specialized touch, art online finally has heart.
+At its core, AIT-MARKI is all about connection and collaboration between users and the AI. In a digital world full of sterile, automated marketing, we bring back creativity's intimate spark. With artist’s creative thinking and AI's conceptual reach, AIT-MARKI can create truly compelling marketing messages that help viewers to fully connect with their art. Our narratives whisper the unspoken essence of each work right into art lovers' hearts.
 
 ## What it Does
 
@@ -288,3 +265,4 @@ Every improvement aims to help merchants turn creativity into sales. We’re com
 ![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_09.jpg?raw=true)
 
 
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARK-GoogleSheet.jpg?raw=true)
