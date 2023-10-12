@@ -56,7 +56,7 @@
     - [Continual Evolution](#continual-evolution)
 
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI.png?raw=true)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_01.png?raw=true)
 
 ### Entrepreneurial Voyage
 
@@ -88,6 +88,7 @@ In a world awash with automated responses and sterile descriptions, **AIT-MARKI*
 
 ## What it Does
 
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_02.png?raw=true)
 **AIT-MARKI** serves as a pioneering bridge between the realms of artistic creation and e-commerce marketing, embodying a blend of technological sophistication and human intuition. Here's a breakdown of its functionalities:
 
 ### Automated Image Analysis
@@ -114,6 +115,8 @@ In the final stride, the meticulously crafted content, along with the image and 
 At its core, **AIT-MARKI** is engineered to liberate artists and merchants from the time-intensive chore of manual product listing creation, without compromising on the emotional richness and authenticity of the narrative. Through a harmonious blend of AI and human creativity, **AIT-MARKI**  not only simplifies the marketing process but elevates it, fostering a more profound and emotionally engaging connection between the creator, the artwork, and the potential buyer. It's about transcending the mundane and venturing into a realm where marketing becomes a narrative art, and every product listing tells a story that resonates deeply with the human heart.
 
 ## How we built it
+
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_03.png?raw=true)
 
 **AIT-MARKI** serves as a pioneering bridge between the realms of artistic creation and e-commerce marketing, embodying a blend of technological sophistication and human intuition. Here's a breakdown of its functionalities:
 
@@ -143,6 +146,8 @@ At its core, **AIT-MARKI** is engineered to liberate artists and merchants from 
 
 ## Challenges we ran into
 
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_04.png?raw=true)
+
 The journey of constructing an intricate end-to-end AI automation platform like  **AIT-MARKI** was laden with technical challenges that demanded iterative refinement and a robust troubleshooting approach. Below are the key challenges and the strategies employed to navigate through them:
 
 ### Refinement of AI Outputs:
@@ -165,6 +170,8 @@ Through extensive iteration, troubleshooting, and a proactive approach towards c
 
 ## Accomplishments that we're proud of
 
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_05.png?raw=true)
+
 We take immense pride in having engineered an AI-centric solution that addresses a significant hurdle for merchants in a user-friendly manner. The ability to metamorphose product images into sales-centric copy with a mere click is a milestone that exhilarates us.
 
 ### Engineering AI-centric Solution
@@ -177,6 +184,8 @@ As we revel in this accomplishment, our excitement is fueled further by the vast
 We envision **AIT-MARKI** evolving as an indispensable tool in the e-commerce landscape, continually adapting to the dynamic market needs and setting new benchmarks in automated, emotionally-engaging marketing. The future beckons with promises of further innovation, and we are passionately poised to explore the unfolding potential of AI in transforming the marketing narrative.
 
 ## What we learned
+
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_05.png?raw=true)
 
 The journey of constructing **AIT-MARKI** has been a cornucopia of learning and enlightenment, unraveling both the prowess and the intricacies associated with AI-driven solutions:
 
@@ -208,6 +217,8 @@ This repertoire of learnings is not merely a reflection of our past endeavor but
 
 ## What's next for AIT-MARKI
 
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_06.png?raw=true)
+
 The voyage of **AIT-MARKI** is poised towards a horizon filled with innovation and enhanced utility. Here's a glimpse into the exciting roadmap that lies ahead:
 
 ### Deepening Synergy with Square
@@ -233,6 +244,6 @@ The current iteration of AIT-MARKI is a testament to our commitment to providing
 
 The trajectory of AIT-MARKI is meticulously aligned with the vision of catalyzing a transformative impact in the e-commerce arena. Each planned enhancement is a stepping stone towards creating a vortex of value for merchants, heralding a bright, promising future where AI-driven marketing is not just a tool but an extension of the merchant's creative vision.
 
-
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_07.png?raw=true)
 
 
