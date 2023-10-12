@@ -57,7 +57,7 @@
   - [Affiliate Program Launch](#affiliate-program-launch)
   - [Continuous Enhancement](#continuous-enhancement)
   - [Evolving AIT-MARKI](#evolving-ait-marki)
-
+- [Example](#example)
 
 
 ![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_01.jpg?raw=true)
@@ -265,4 +265,14 @@ Every improvement aims to help merchants turn creativity into sales. We’re com
 ![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_09.jpg?raw=true)
 
 
+## Example
+
 ![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARK-GoogleSheet.jpg?raw=true)
+
+
+### Art
+
+![crystal_003](https://aitrailblazer.com/images/MARKI/crystal_003.jpg)
+
+
+![Describe This Picture](https://aitrailblazer.com/images/MARKI/DescribeThisPicture.png)
