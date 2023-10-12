@@ -1,4 +1,5 @@
-![AIT-MARKI Banner](images/AIT-MARKI.png)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI.png?raw=true)
+
 - [Inspiration](#inspiration)
     - [Entrepreneurial Voyage](#entrepreneurial-voyage)
     - [Challenging Conundrum](#challenging-conundrum)
