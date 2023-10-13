@@ -298,7 +298,9 @@ Step 5-8
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture03.jpg?raw=true)
 
 
-ddddd
+Step 9-10
+
+![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps9-10.png?raw=true)
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture04.jpg?raw=true)
 
