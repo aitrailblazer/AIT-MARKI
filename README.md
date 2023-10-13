@@ -272,7 +272,12 @@ Every improvement aims to help merchants turn creativity into sales. We’re com
 
 ### Art
 
+![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture.png?raw=true)
+
+
 ![crystal_003](https://aitrailblazer.com/images/MARKI/crystal_003.jpg)
 
 
-![Describe This Picture](https://aitrailblazer.com/images/MARKI/DescribeThisPicture.png)
+
+
+
