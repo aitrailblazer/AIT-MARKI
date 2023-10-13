@@ -1,3 +1,6 @@
+
+# AIT-MARKI: Pioneering Emotionally-Optimized Marketing and Square E-commerce Through AI Integration
+
 ![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI.png?raw=true)
 
 - [Inspiration](#inspiration)
@@ -58,8 +61,46 @@
   - [Continuous Enhancement](#continuous-enhancement)
   - [Evolving AIT-MARKI](#evolving-ait-marki)
 - [Example](#example)
-
-
+  - [Google Sheet Project](#google-sheet-project)
+  - [Describe This Picture](#describe-this-picture)
+  - [Art](#art)
+  - [Step 1-4 Generating Image Description and Keywords](#step-1-4-generating-image-description-and-keywords)
+  - [Step 5-8 Image Insights and Image Description](#step-5-8-image-insights-and-image-description)
+  - [Step 9-10 - Color Recognition](#step-9-10---color-recognition)
+  - [Step 11-13 Generating Description](#step-11-13-generating-description)
+  - [Step 14-16 Generating Title](#step-14-16-generating-title)
+  - [Step 14-16 Create Catalog Entry](#step-14-16-create-catalog-entry)
+  - [Generate Emotion-Focused Buying Reasons](#generate-emotion-focused-buying-reasons)
+  - [Generate Emotional Appeal Messaging](#generate-emotional-appeal-messaging)
+- [Architecture](#architecture)
+  - [Developer Interaction](#developer-interaction)
+  - [Users Interaction](#users-interaction)
+  - [AITrailblazer OpenAPI Web Service](#aitrailblazer-openapi-web-service)
+  - [AI Platform](#ai-platform)
+  - [Google Workspaces](#google-workspaces)
+  - [Square](#square)
+  - [Deployment](#deployment)
+  - [Description](#description)
+- [Sequence Diagram: AIT-MARKI: Pioneering Emotionally-Optimized Marketing and Square E-commerce Through AI Integration](#sequence-diagram-ait-marki-pioneering-emotionally-optimized-marketing-and-square-e-commerce-through-ai-integration)
+  - [1. **Input of Image URL by HC**](#1-input-of-image-url-by-hc)
+  - [2. **Request for Image Data from GSH to AIT**](#2-request-for-image-data-from-gsh-to-ait)
+  - [3. **Fetching and Returning Image Data by AIT**](#3-fetching-and-returning-image-data-by-ait)
+  - [4. **Receipt of Image Data by GSH**](#4-receipt-of-image-data-by-gsh)
+  - [5. **Injection of Image Insights by HC to AIT-MARKI (AM)**](#5-injection-of-image-insights-by-hc-to-ait-marki-am)
+  - [6. **Request for Image Description by HC to Google PaLM2 Image Services (GP)**](#6-request-for-image-description-by-hc-to-google-palm2-image-services-gp)
+  - [7. **Generation and Return of Description and Keywords by GP**](#7-generation-and-return-of-description-and-keywords-by-gp)
+  - [8. **Request for Color Recognition by HC to Color Recognition (CR)**](#8-request-for-color-recognition-by-hc-to-color-recognition-cr)
+  - [9. **Return of Colors by CR**](#9-return-of-colors-by-cr)
+  - [10. **Generation of Textual Description initiated by HC in AM**](#10-generation-of-textual-description-initiated-by-hc-in-am)
+  - [11. **Generation and Display of Textual Description by AM**](#11-generation-and-display-of-textual-description-by-am)
+  - [12. **Review, Modification, and Finalization of Textual Description by HC**](#12-review-modification-and-finalization-of-textual-description-by-hc)
+  - [13. **Generation of Title initiated by HC in AM**](#13-generation-of-title-initiated-by-hc-in-am)
+  - [14. **Generation and Display of Title by AM**](#14-generation-and-display-of-title-by-am)
+  - [15. **Review, Modification, and Finalization of Title by HC**](#15-review-modification-and-finalization-of-title-by-hc)
+  - [16. **Creation of Square Catalog Item initiated by HC in Square (SQ)**](#16-creation-of-square-catalog-item-initiated-by-hc-in-square-sq)
+  - [17. **Creation of Square Catalog Item by AM in SQ**](#17-creation-of-square-catalog-item-by-am-in-sq)
+  - [18. **Receipt and Display of Catalog Item by SQ**](#18-receipt-and-display-of-catalog-item-by-sq)
+  
 ![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_01.jpg?raw=true)
 
 ## Inspiration
@@ -267,6 +308,8 @@ Every improvement aims to help merchants turn creativity into sales. We’re com
 
 ## Example
 
+### Google Sheet Project
+
 ![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARK-GoogleSheet.jpg?raw=true)
 
 
@@ -277,8 +320,9 @@ Every improvement aims to help merchants turn creativity into sales. We’re com
 
 ### Art
 
-![crystal_003](https://aitrailblazer.com/images/MARKI/crystal_003.jpg)
+ by NightEnLight
 
+![crystal_003](https://aitrailblazer.com/images/MARKI/crystal_003.jpg)
 
 
 ### Step 1-4 Generating Image Description and Keywords
@@ -381,33 +425,32 @@ As the human creator, you can review, edit, expand or rewrite the AI-generated c
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture08.jpg?raw=true)
 
 
-
 ## Architecture
 
  Here’s a breakdown of the architecture of the AIT-MARKI project. 
 
-- Developer Interaction:
+### Developer Interaction:
 A Developer Client interacts with Bash, Visual Studio Code, and Docker.
 The Client also has access to/update functionalities on Square Website, Square Catalog, and Google Sheets.
 
-- Users Interaction:
+### Users Interaction:
 Represented as a package, interacting with Google Sheets and Square Website.
 
-- AITrailblazer OpenAPI Web Service:
+### AITrailblazer OpenAPI Web Service:
 Comprises GCP components like Cloud Load Balancing, Cloud Armor, Cloud API Gateway, Cloud Run, and Firestore.
 These components are interlinked, depicting a sequence of interactions, e.g., Cloud Load Balancing forwarding requests to Cloud Armor, which then interacts with authentication (auth) and so forth.
 
-- AI Platform:
+### AI Platform:
 Contains AI Platform and Vertex AI which interact with each other, and Cloud Run interacts with AI Platform.
 
-- Google Workspaces:
+### Google Workspaces:
 Google Sheets interacts with Users, Cloud Load Balancing, and Square Catalog.
 
-- Square:
+### Square:
 Contains Square Catalog API and Square Website.
 Users can access the Square Website, which interacts with Square Catalog. Both Square components also interact with Google Sheets.
 
-- Deployment:
+### Deployment:
 Docker interacts with Cloud Run, indicating a deployment mechanism.
 
 ### Description:
@@ -429,6 +472,67 @@ Every strand of the AIT-MARKI architectural fabric is woven with a singular visi
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_Diagram.png?raw=true)
 
 
+## Sequence Diagram: AIT-MARKI: Pioneering Emotionally-Optimized Marketing and Square E-commerce Through AI Integration
+
+The diagram delineates an integrated process flow involving a human creator (HC), AI services, and an e-commerce platform (Square) to optimize marketing strategies through image analysis and content generation. Here's a breakdown of every step:
+
+### 1. **Input of Image URL by HC**:
+   - HC selects a row on Google Sheets (GSH) and inputs the image URL, initiating the process.
+
+### 2. **Request for Image Data from GSH to AIT**:
+   - GSH sends a request to AITrailblazer (AIT) to fetch image data based on the provided URL.
+
+### 3. **Fetching and Returning Image Data by AIT**:
+   - AIT fetches the image data and returns it to GSH for further processing.
+
+### 4. **Receipt of Image Data by GSH**:
+   - GSH holds the image data for further analysis and processing.
+
+### 5. **Injection of Image Insights by HC to AIT-MARKI (AM)**:
+   - HC provides insights about the image in GSH, laying the foundation for subsequent marketing strategies by AM.
+
+### 6. **Request for Image Description by HC to Google PaLM2 Image Services (GP)**:
+   - HC triggers a request to GP to generate a description and keywords for the image.
+
+### 7. **Generation and Return of Description and Keywords by GP**:
+   - GP generates a description and keywords for the image and displays them to HC.
+
+### 8. **Request for Color Recognition by HC to Color Recognition (CR)**:
+   - HC triggers a request to CR to analyze the colors in the uploaded image.
+
+### 9. **Return of Colors by CR**:
+   - CR analyzes and returns the colors present in the image to HC.
 
 
+![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/SeqDiagram1-9.png?raw=true)
 
+### 10. **Generation of Textual Description initiated by HC in AM**:
+   - HC prompts AM to generate a textual description of the image based on the extracted data.
+
+### 11. **Generation and Display of Textual Description by AM**:
+   - AM synthesizes the data into natural language sentences describing the image.
+
+### 12. **Review, Modification, and Finalization of Textual Description by HC**:
+   - HC reviews and potentially modifies the AI-generated description to align with desired goals.
+
+### 13. **Generation of Title initiated by HC in AM**:
+   - HC prompts AM to produce a title summarizing the essence of the image.
+
+### 14. **Generation and Display of Title by AM**:
+   - AM creates a title that encapsulates the essence of the image.
+
+### 15. **Review, Modification, and Finalization of Title by HC**:
+   - HC reviews and potentially modifies the AI-generated title to better capture the message or intent of the image.
+
+### 16. **Creation of Square Catalog Item initiated by HC in Square (SQ)**:
+   - HC triggers the creation of a Square Catalog Item using the curated image, description, and title.
+
+### 17. **Creation of Square Catalog Item by AM in SQ**:
+   - AM processes the request and creates a new catalog item in SQ.
+
+### 18. **Receipt and Display of Catalog Item by SQ**:
+   - SQ receives the catalog item data from AM and displays it on the merchant's website for viewership and potential customer interaction.
+
+This process exemplifies a meticulous orchestration of human intervention, AI-driven analysis, and e-commerce operations, fostering an integrated approach towards emotionally-optimized marketing and streamlined e-commerce activities through AI integration.
+
+![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/SeqDiagram10-18.png?raw=true)
