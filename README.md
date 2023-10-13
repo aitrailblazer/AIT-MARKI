@@ -304,9 +304,24 @@ Step 9-10
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture04.jpg?raw=true)
 
+Step 11-13
+
+![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps11-13.png?raw=true)
+
+
+
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture05.jpg?raw=true)
 
+Step 14-16
+
+![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps14-16.png?raw=true)
+
+
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture06.jpg?raw=true)
+
+Step 17-19
+
+![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps14-16.png?raw=true)
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture07.jpg?raw=true)
 
