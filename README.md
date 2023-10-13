@@ -281,14 +281,23 @@ Every improvement aims to help merchants turn creativity into sales. We’re com
 
 
 
-Step 1-4
+### Step 1-4 Generating Image Description and Keywords
+
+Upload an image to AIT-MARKI.
+The AIT-MARKI will automatically detect keywords and visual concepts present in the image.
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps1-4.png?raw=true)
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture01.jpg?raw=true)
 
 
-Step 5-8
+### Step 5-8 Image Insights and  Image Description
+
+Based on the extracted image keywords and human-provided captions and insights, AIT-MARKI will generate a textual description of the image, synthesizing all the detected visual components into natural language sentences that characterize what the image portrays.
+
+The AI-generated description will appear in the Image Description field for the human creator to review and edit.
+
+As the user, you can modify, expand or rewrite the Image Description as needed to get it to align with your goals. This description serves as a baseline interpretation of the image that can be built upon and refined.
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps5-8.png?raw=true)
 
@@ -298,13 +307,26 @@ Step 5-8
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture03.jpg?raw=true)
 
 
-Step 9-10
+
+### Step 9-10 - Color Recognition:
+
+In addition to detecting keywords and objects, AIT-MARKI also analyzes the colors present in the uploaded image.
+The detected colors will be displayed in the Colors field for the human creator to review.
+
+As the user, you can edit the colors by deleting or adding colors as needed to best represent the color palette of the image.
+
+Recognizing the main colors provides further visual context for the AI to understand the look, feel and tone of the image. The identified colors add another layer of descriptive data about the image that feeds into the AI content generation in subsequent steps.
+
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps9-10.png?raw=true)
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture04.jpg?raw=true)
 
-Step 11-13
+### Step 11-13 Generating Description
+
+Based on the extracted image keywords, colors, and human-provided captions and insights, AIT-MARKI will generate a textual description of the image, synthesizing all the detected visual components into natural language sentences that characterize what the image portrays.
+The AI-generated description will appear in the Description field for the human creator to review and edit.
+As the user, you can modify, expand or rewrite the description as needed to get it to align with your goals. This description serves as a baseline interpretation of the image that can be built upon and refined.
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps11-13.png?raw=true)
 
@@ -312,18 +334,46 @@ Step 11-13
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture05.jpg?raw=true)
 
-Step 14-16
+
+### Step 14-16 Generating Title
+
+After analyzing the image and generating a description, AIT-MARKI will produce a title that summarizes the essence of the image.
+
+The AI-generated title appears in the Title field for the human creator to review and edit as needed.
+
+As the user, you can modify the title to better capture the message or intent of your image.
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps14-16.png?raw=true)
 
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture06.jpg?raw=true)
 
-Step 17-19
 
-![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps14-16.png?raw=true)
+### Step 14-16 Create Catalog Entry
+
+Submit to Square Catalog API: In the concluding step of the process, the Human Creator (HC) initiates the final submission by clicking a button in the AIT-MARKI interface. This triggers AIT-MARKI to package all the compiled data, including the image, keywords, colors, descriptions, titles, buying reasons, and emotional appeal messaging.
+
+Sending Data for Catalog Item: Upon the button click, AIT-MARKI communicates with the Square Catalog API (SQC) to send this comprehensive set of data. This is for the purpose of creating a new item or updating an existing one in the Square e-commerce catalog.
+
+Square Catalog API Response: The Square Catalog API processes the incoming data and returns the status of the new catalog item creation. This status is then relayed back to the Human Creator via AIT-MARKI, closing the loop of the entire process.
+
+![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps17-19.png?raw=true)
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture07.jpg?raw=true)
+
+
+### Generate Emotion-Focused Buying Reasons
+
+AIT-MARKI will generate a list of emotionally-driven buying reasons tailored to your goals, leveraging the analyzed image, description, and title.
+As the creator, you can review the AI's list of suggested buying reasons in the Emotion-Focused Buying Reasons field and refine or rewrite them to fit your brand voice and ideal customer psychology.
+
+
+### Generate Emotional Appeal Messaging:
+
+
+Using the emotionally-driven buying reasons as a foundation, AIT-MARKI will generate messaging content tailored to connect with consumers on an emotional level.
+The messaging will tap into the psychology behind the buying reasons to craft persuasive narratives that align with the target audience.
+As the human creator, you can review, edit, expand or rewrite the AI-generated content in the Emotional Appeal Messaging field to infuse your voice while benefiting from the AI's emotionally-optimized text.
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture08.jpg?raw=true)
 
