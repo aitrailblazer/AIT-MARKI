@@ -279,6 +279,11 @@ Every improvement aims to help merchants turn creativity into sales. We’re com
 
 ![crystal_003](https://aitrailblazer.com/images/MARKI/crystal_003.jpg)
 
+
+
+
+![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture01.jpg?raw=true)
+
 Step 1 - Image Keywords:
 Upload an image to AIT-MARKI.
 The AIT-MARKI will automatically detect keywords and visual concepts present in the image.
@@ -287,10 +292,8 @@ In the Keywords field you can edit, delete or add as many keywords as you need.
 The combination of the AI-generated keywords, human-created Image Insight captions, and keywords in the Keywords field will form a rich set of tags and descriptions that capture what the image is about on a textual level.
 These image analysis steps inform the AI so it can generate optimized content related to the image in later steps.
 
-
-![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture01.jpg?raw=true)
-
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps1-4.png?raw=true)
+
 
 
 
