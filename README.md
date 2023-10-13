@@ -288,12 +288,17 @@ Step 1-4
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture01.jpg?raw=true)
 
 
+Step 5-8
+
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps5-8.png?raw=true)
 
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture02.jpg?raw=true)
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture03.jpg?raw=true)
+
+
+ddddd
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture04.jpg?raw=true)
 
