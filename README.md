@@ -367,6 +367,7 @@ Square Catalog API Response: The Square Catalog API processes the incoming data 
 AIT-MARKI will generate a list of emotionally-driven buying reasons tailored to your goals, leveraging the analyzed image, description, and title.
 As the creator, you can review the AI's list of suggested buying reasons in the Emotion-Focused Buying Reasons field and refine or rewrite them to fit your brand voice and ideal customer psychology.
 
+![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps20-21.png?raw=true)
 
 ### Generate Emotional Appeal Messaging:
 
@@ -375,11 +376,57 @@ Using the emotionally-driven buying reasons as a foundation, AIT-MARKI will gene
 The messaging will tap into the psychology behind the buying reasons to craft persuasive narratives that align with the target audience.
 As the human creator, you can review, edit, expand or rewrite the AI-generated content in the Emotional Appeal Messaging field to infuse your voice while benefiting from the AI's emotionally-optimized text.
 
+![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/Steps22-23.png?raw=true)
+
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/DescribeThisPicture08.jpg?raw=true)
 
 
 
+## Architecture
 
+ Here’s a breakdown of the architecture of the AIT-MARKI project. 
+
+- Developer Interaction:
+A Developer Client interacts with Bash, Visual Studio Code, and Docker.
+The Client also has access to/update functionalities on Square Website, Square Catalog, and Google Sheets.
+
+- Users Interaction:
+Represented as a package, interacting with Google Sheets and Square Website.
+
+- AITrailblazer OpenAPI Web Service:
+Comprises GCP components like Cloud Load Balancing, Cloud Armor, Cloud API Gateway, Cloud Run, and Firestore.
+These components are interlinked, depicting a sequence of interactions, e.g., Cloud Load Balancing forwarding requests to Cloud Armor, which then interacts with authentication (auth) and so forth.
+
+- AI Platform:
+Contains AI Platform and Vertex AI which interact with each other, and Cloud Run interacts with AI Platform.
+
+- Google Workspaces:
+Google Sheets interacts with Users, Cloud Load Balancing, and Square Catalog.
+
+- Square:
+Contains Square Catalog API and Square Website.
+Users can access the Square Website, which interacts with Square Catalog. Both Square components also interact with Google Sheets.
+
+- Deployment:
+Docker interacts with Cloud Run, indicating a deployment mechanism.
+
+### Description:
+
+The architecture of AIT-MARKI is meticulously designed to foster a symbiotic relationship between cutting-edge AI services and human engagement, all anchored on a robust array of tools and platforms. At the core of this architectural marvel lies a strategically integrated framework that seamlessly melds the technological prowess of Google Cloud Platform (GCP) services with the intuitive interactions of developers and users.
+
+Starting with the developer's realm, a suite of modern tools including Visual Studio Code, Docker, and Bash, forms the conduit through which developers interact with the system. These tools are more than just interfaces; they are the gateway to a realm of endless possibilities within the AIT-MARKI ecosystem.
+
+At the heart of user interaction is the "AITrailblazer OpenAPI Web Service", a well-oiled machine comprising GCP’s Cloud Load Balancing, Cloud Armor, Cloud API Gateway, Cloud Run, and Firestore. This powerhouse of services not only ensures a fortified security perimeter but also guarantees a fluid interaction flow, routing requests and data with near-perfect efficiency.
+
+The AI domain within the AIT-MARKI architecture is a testament to the project’s commitment to leveraging top-notch AI services. The AI Platform and Vertex AI are intertwined in a way that facilitates advanced analytics and machine learning capabilities, providing a rich bedrock for AI-driven solutions.
+
+The incorporation of "Google Workspaces" and "Square" services epitomizes the essence of strategic integration in the AIT-MARKI architecture. Google Sheets and Square Catalog API, along with the Square Website, provide avenues for both user and automated interactions, blurring the lines between human input and AI analytics.
+
+The deployment mechanism, underlined by the interaction between Docker and Cloud Run, showcases the ease of scalability and the readiness of the AIT-MARKI architecture to adapt to evolving project demands.
+
+Every strand of the AIT-MARKI architectural fabric is woven with a singular vision - to create a streamlined, user-centric ecosystem where AI services and human inputs coalesce into a unified operational flow, ensuring not just a robust user experience, but a glimpse into the future of integrated tech landscapes.
+
+![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_Diagram.png?raw=true)
 
 
 
