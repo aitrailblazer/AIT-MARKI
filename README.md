@@ -12,7 +12,10 @@ With so many products to describe and such limited time, merchants struggle to c
 AIT-MARKI solves this by using AI to transform product images into optimized promotional copy and descriptions that convert.
 In this crowded market, AIT-MARKI gives merchants a competitive edge by turning product images into sales-focused descriptions with a few clicks. Product storytelling simplified - from imagery to increased revenue.
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI.png?raw=true)
+
+
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_01.png?raw=true)
+
 
 - [Inspiration](#inspiration)
    - [Selling Artwork Online](#selling-artwork-online)
@@ -547,3 +550,7 @@ The diagram delineates an integrated process flow involving a human creator (HC)
 This process exemplifies a meticulous orchestration of human intervention, AI-driven analysis, and e-commerce operations, fostering an integrated approach towards emotionally-optimized marketing and streamlined e-commerce activities through AI integration.
 
 ![Describe This Picture](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/SeqDiagram10-18.png?raw=true)
+
+
+
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_02.png?raw=true)
