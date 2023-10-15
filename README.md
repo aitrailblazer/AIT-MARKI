@@ -289,7 +289,8 @@ The journey of imagination never ends when you’re passionate about technology.
 
 ## What's next for AIT-MARKI
 
-aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_08.jpg?raw=true)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_08.jpg?raw=true)
+
 
 ## What's next for AIT-MARKI
 
