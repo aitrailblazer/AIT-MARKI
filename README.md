@@ -14,7 +14,7 @@ In this crowded market, AIT-MARKI gives merchants a competitive edge by turning 
 
 
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_01.png?raw=true)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_01.jpg?raw=true)
 
 
 - [Inspiration](#inspiration)
@@ -133,7 +133,7 @@ At its core, AIT-MARKI is all about connection and collaboration between users a
 
 ## What it Does
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_02.jpg?raw=true)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_03.jpg?raw=true)
 
 ### Bridging Art and Commerce
 
@@ -161,7 +161,7 @@ Selling art online is now easier and more engaging than ever. AIT-MARKI elevates
 
 ## How we built it
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_03.jpg?raw=true)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_04.jpg?raw=true)
 
 
 ### Bringing Artistry to E-commerce
@@ -202,7 +202,7 @@ Through collaborative synthesis, we developed an AI assistant that simplifies e-
 
 ## Overcoming Challenges on the Road to Innovation
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_04.jpg?raw=true)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_05.jpg?raw=true)
 
 ### Navigating the Adventurous Terrain
 Innovating at the crossroads of technology and creativity rarely follows a smooth, straight path. Building AIT-MARKI required traversing an adventurous terrain filled with obstacles that called for agile problem-solving.
@@ -227,7 +227,7 @@ Today, these challenges stand as milestones that shaped AIT-MARKI into a platfor
 
 ## Accomplishments that we're proud of
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_05.jpg?raw=true)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_06.jpg?raw=true)
 
 ### Pride in Bridging Imagination and Utility
 
@@ -259,7 +259,7 @@ Our team is passionate about developing AI that empowers people. With AIT-MARKI,
 
 ## What we learned
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_06.jpg?raw=true)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_07.jpg?raw=true)
 
 ## What we learned
 
@@ -289,7 +289,7 @@ The journey of imagination never ends when you’re passionate about technology.
 
 ## What's next for AIT-MARKI
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_07.jpg?raw=true)
+aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_08.jpg?raw=true)
 
 ## What's next for AIT-MARKI
 
@@ -317,14 +317,14 @@ Of course, the horizon keeps expanding when you love solving problems. The curre
 ### Evolving AIT-MARKI
 Every improvement aims to help merchants turn creativity into sales. We’re committed to evolving AIT-MARKI into a transformative force in e-commerce. The future looks bright, and we can’t wait to keep innovating!
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_09.jpg?raw=true)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_09.jpg?raw=true)
 
 
 ## Example
 
 ### Google Sheet Project
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARK-GoogleSheet.jpg?raw=true)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_10.jpg?raw=true)
 
 
 ### Describe This Picture
@@ -553,4 +553,4 @@ This process exemplifies a meticulous orchestration of human intervention, AI-dr
 
 
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_02.png?raw=true)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_11.jpg?raw=true)
