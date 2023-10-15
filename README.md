@@ -115,7 +115,7 @@ In this crowded market, AIT-MARKI gives merchants a competitive edge by turning 
   - [17. **Creation of Square Catalog Item by AM in SQ**](#17-creation-of-square-catalog-item-by-am-in-sq)
   - [18. **Receipt and Display of Catalog Item by SQ**](#18-receipt-and-display-of-catalog-item-by-sq)
 
-![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI_01.jpg?raw=true)
+![AIT-MARKI Banner](https://github.com/aitrailblazer/AIT-MARKI/blob/main/images/AIT-MARKI-UI_02.jpg?raw=true)
 
 ## Inspiration
 
